@@ -1,6 +1,4 @@
-#!/bin/bash
-
-sudo pacman -S kitty
+#!/bin/bash 
 
 rm -rf .git
 
