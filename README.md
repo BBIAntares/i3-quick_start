@@ -1,14 +1,12 @@
-# Requirements
-
----
+#### Requirements
 
 * Git
 
 * Kitty
 
-# Getting Started
+#### Getting Started
 
-* Clone repo:
+* Clone the repo:
 
 ```sh
 
